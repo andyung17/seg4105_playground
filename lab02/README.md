@@ -1,4 +1,4 @@
-# SEG4105
+# SEG4105 - Lab 2
 
 | Outline | Value |
 | --- | --- |
@@ -8,9 +8,8 @@
 | TA | |
 | Team | Andy Ung 300117710 <br>|
 
-## Tutorial Work
-* [Tut01](tut01)
-* [Tut02](tut02)
+## To-do List
+![Alt text](image.png)
 
-## Lab Work
-* [Lab02](lab02)
+## Dinner Plan
+![Alt text](image-1.png)
