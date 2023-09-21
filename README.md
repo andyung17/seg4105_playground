@@ -8,5 +8,6 @@
 | TA | |
 | Team | Andy Ung 300117710 <br>|
 
-## Week 1
+## Tutorial Work
 * [Tut01](tut01)
+* [Tut02](tut02)

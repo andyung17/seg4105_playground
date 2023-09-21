@@ -20,7 +20,12 @@
 * Confusion in these roles creates a rippling effect even to other team members as the distinction between roles becomes vague / ambiguous 
 * Meme: 
     * Take a meme that contains themes of confusion and show that each variant are not distinguishable 
-
+* Variations in what the role PM means
+    * Product manager 
+    * Project manager 
+    * Product owner
+* Hard to distinguish between them all
+* All seem to mean the exact same vs. function completely differently 
 
 ## Research
 
@@ -44,6 +49,9 @@
 
 * This quote illustrates the idea that variations exist in a project and trickles down to as low as the other members of the team 
 
-## Meme
+* Product Managers: Gather requirements, designs, and other aspects of a project in regards of the product.
+* Project Managers: Sets out a plan to complete and achieve completion of the project.
+
+## Meme - Project Managment Styles
 
 See MEME.jpg 
