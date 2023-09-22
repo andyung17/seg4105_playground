@@ -5,7 +5,7 @@
 | Course | SEG 4105 |
 | Date | Fall 2023 |
 | Student | Andy Ung, aung015@uottawa.ca |
-| TA | |
+| TA | Shabnam Hassaniahari, Ali Mirferdos | 
 | Team | Andy Ung 300117710 <br>|
 
 ## Tutorial Work
