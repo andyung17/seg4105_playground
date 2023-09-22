@@ -1,11 +1,12 @@
-# SEG4105
+# SEG4105 - Tutorial 1
 
 | Outline | Value |
 | --- | --- |
 | Course | SEG 4105 |
 | Date | Fall 2023 |
 | Student | Andy Ung, aung015@uottawa.ca |
-| TA | Shabnam Hassaniahari, Ali Mirferdos | 
+| TA | Shabnam Hassaniahari, shass126@uottawa.ca <br> Ali Mirferdos , smirf045@uottawa.ca| 
+| Professor | Andrew Forward, aforward@hey.com |  
 | Team | Andy Ung 300117710 <br>|
 
 ## Brainstorm
