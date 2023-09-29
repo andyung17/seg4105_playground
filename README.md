@@ -12,6 +12,8 @@
 ## Tutorial Work
 * [Tut01](tut01)
 * [Tut02](tut02)
+* [Tut03](tut03)
 
 ## Lab Work
 * [Lab02](lab02)
+* [Lab03](lab03)
