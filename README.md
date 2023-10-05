@@ -13,7 +13,9 @@
 * [Tut01](tut01)
 * [Tut02](tut02)
 * [Tut03](tut03)
+* [Tut04](tut04)
 
 ## Lab Work
 * [Lab02](lab02)
 * [Lab03](lab03)
+* [Lab04](lab04)
