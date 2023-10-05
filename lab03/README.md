@@ -10,7 +10,7 @@
 | Team | Andy Ung 300117710 <br>|
 
 ## Feature - Workout Generation
-This feature represents a survey that takes in answers and creates a workout routine split that reflects specific choices made. This accomdates certain restrictions and preferences provided from the user and creates user specific workout routines to ensure maximium satisfaction and performance.
+This feature represents a survey that takes in answers and creates a workout routine split that reflects specific choices made. This accomdates certain restrictions and preferences provided from the user and creates user specific workout routines to ensure maximium satisfaction and performance. The goal is to allow any kind of user (any level of expertise) 
 
 ## Breadboarding
 ### Stage 1
