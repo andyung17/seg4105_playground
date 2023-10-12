@@ -1,4 +1,4 @@
-# SEG4105 - Lab 3
+# SEG4105 - Lab 3 & Delierable 1
 
 | Outline | Value |
 | --- | --- |
