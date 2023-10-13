@@ -33,7 +33,8 @@
 ## Andy - Workout Generation
 
 ## Changelog
-- Reformulating the solution
+- Reformulating the appetite & solution
+![Alt text](image.png)
 
 
 ## Meeting Notes
