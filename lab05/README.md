@@ -29,21 +29,19 @@
 <strong> Where do you think this feature or survey gets shown to the user? (Adhish) </strong>
 - The workout generator should only be allowed for users after they have registed. This is to allow for workouts / routines to be saved, modified, and finding other options to accomdate users. Having this feature outside of the FitShare domain, this can lead to extra set of effort needed for public viewing rather simply viewing strictly within the application. This survey would be accessible through many methods, but one of the convient for the user should be somewhere on the homepage. 
 
-## Pitch Notes
-
-### Khai - Sessions
-- 
-
-### Adhish - Calendar
-
-### Avaneesh - Login
-- 
-
-### Luka - Social
-- 
-
 ## Winning Pitch 
 ## Andy - Workout Generation
 
-## Meeting Notes
+## Changelog
+- Reformulating the solution
 
+
+## Meeting Notes
+[Capstone Minutes](https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md)
+
+## Tools 
+#### Communication: Discord
+#### Tracking: Notion, Jira
+#### Pitch Decisions: [Capstone Minutes](https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md), [Notion](https://www.notion.so/Meeting-Notes-3f6024de1c9948d7aee44417432c0fa1), and [Github](../lab05)
+#### Bet Note Taking:  [Capstone Minutes](https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md), [Notion](https://www.notion.so/Meeting-Notes-3f6024de1c9948d7aee44417432c0fa1), and [Github](../lab05)
+#### Kickoff: [Capstone Minutes](https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md) and [Github](../lab05)
