@@ -16,4 +16,4 @@ Message: This is to thank everyone for creating and participating in yesterdays 
 Changelog: Reformulating the appetite & solution
 ![Alt text](image.png)
 
-Meeting minutes: [Minutes](https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md)
+Meeting minutes: [Minutes](https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md#meeting-date-2023-10-12)
