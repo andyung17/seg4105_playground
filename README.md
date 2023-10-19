@@ -24,3 +24,4 @@
 
 ## Deliverable(s)
 * [Deliverable1](lab03)
+* [Deliverable2](del02)
