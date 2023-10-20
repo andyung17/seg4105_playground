@@ -72,9 +72,4 @@ This is to thank everyone for creating and participating in yesterdays Pitch and
 Reformulating the Appetite & Solution
 ![Alt text](image.png)
 
-## Meeting Minutes
-Meeting Location: Discord 
-
-When: 2023-10-12, 12:00pm
-
-Details: [Minutes](https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md#meeting-date-2023-10-12)
+Meeting minutes: [Minutes](https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md#meeting-date-2023-10-12)
