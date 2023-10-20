@@ -1,4 +1,4 @@
-# SEG4105 - Delierable 2
+# SEG4105 - Deliverable 2
 
 | Outline | Value |
 | --- | --- |
