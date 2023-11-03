@@ -104,7 +104,7 @@
 
 ### Schedule 
 Meeting: 
-- Tuesday
+- Tuesday (2023-11-07)
     - Revision
     - Design Review
     - Progression
