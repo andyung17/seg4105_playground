@@ -14,6 +14,10 @@
 
 ![Alt text](image-1.png)
 
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+
 ## Notes
 - MongoDB
     - Using Mongoose Schema to `fetch` the Collection 
@@ -26,3 +30,4 @@
 
 - [Diagram](https://lucid.app/lucidchart/4d86bfa0-ab8a-4016-9e11-8b4ab6cab7be/edit?viewport_loc=-583%2C119%2C1646%2C2044%2C0_0&invitationId=inv_80b194ef-1b38-4f94-9988-3bc612e01274)
 - [Metrics Table + Exercise List](https://docs.google.com/document/d/1nkGb7L3meAjP4q1O1PhJN4kkbZCNPHTTSLLAWFwXKYk/edit?usp=sharing)
+- [Capstone](https://github.com/LukaDavid04/FitShare)
